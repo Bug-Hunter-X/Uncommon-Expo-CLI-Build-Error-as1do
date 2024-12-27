@@ -1,0 +1,1 @@
+This error typically occurs when you're using an older version of Expo CLI or when there's a conflict with other packages in your project's dependencies.  It often manifests during the build process, preventing the app from being properly packaged for Android or iOS.  The exact error message might vary, but it usually indicates a problem with the native modules or build system.
